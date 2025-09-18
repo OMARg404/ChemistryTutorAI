@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "ChemistryTutorAI" Project is an intelligent assistant for high school chemistry students in Egypt.
 The goal is to help students understand curricula and answer questions, while maintaining academic integrity (preventing cheating or directly solving exam papers).
 
@@ -142,3 +143,7 @@ System blocks responses if an exam paper is detected.
 1. نزّل المتطلبات:  
    ```bash
    pip install -r 5_api/requirements.txt
+=======
+# ChemistryTutorAI
+🤖 AI-powered Chemistry Tutor for Egyptian high school students. Includes OCR, RAG, teacher-style fine-tuning, and anti-cheating features.
+>>>>>>> ec3d9496a7b16133203dd22ffd96b4e86a84a58d
